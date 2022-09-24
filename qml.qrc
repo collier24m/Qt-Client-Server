@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/arrows.svg</file>
+        <file>images/eye.png</file>
+        <file>images/wifi-green.png</file>
+        <file>images/wifi-red.png</file>
+        <file>images/world-web.png</file>
+        <file>images/wifi-black.png</file>
+    </qresource>
+</RCC>

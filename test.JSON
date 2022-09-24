@@ -1,0 +1,36 @@
+{
+   "wifi_params":[
+      {
+         "id":"wifi_1",
+         "auth":"!QAZxsw2#EDCvfr4"
+      },
+      {
+         "id":"wifi_2",
+         "auth":"vgy7*UHBnji9)OKLM"
+      },
+	  {
+         "id":"wifi_3",
+         "auth":"!QAZxsw2#EDCvfr4"
+      },
+      {
+         "id":"wifi_4",
+         "auth":"vgy7*UHBnji9)OKLM"
+      },
+	  {
+         "id":"wifi_5",
+         "auth":"!QAZxsw2#EDCvfr4"
+      },
+      {
+         "id":"wifi_6",
+         "auth":"vgy7*UHBnji9)OKLM"
+      },
+	  {
+         "id":"wifi_7",
+         "auth":"!QAZxsw2#EDCvfr4"
+      },
+      {
+         "id":"wifi_8",
+         "auth":"vgy7*UHBnji9)OKLM"
+      }
+   ]
+}
